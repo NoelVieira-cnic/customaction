@@ -50,7 +50,6 @@ Optionally, it can also include information on:
 - inputs / output
 - branding elements (should you want to publish your Custom GitHub Action on the Marketplace)
 
-
 ## Example
 
 If a commit message contains deploy, the workflow will detect it and execute the `deploy.py` script.
